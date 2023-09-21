@@ -6,5 +6,6 @@ The algorithms run 10 times on each array with each algorithm and the average of
 
 ## Usage
 
-![image](https://github.com/alextomic7274/Sorting-Algorithm-Benchmarker/assets/64744056/61989736-1bb4-4da8-84e3-37fc3c93ab0e)
+![image](https://github.com/alextomic7274/Sorting-Algorithm-Benchmarker/assets/64744056/f5a34fd9-b0d4-4c93-a0eb-1ed61c9ab572)
+
 
